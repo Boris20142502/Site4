@@ -6,4 +6,4 @@
 ![Uploading image.png…]()
 
 
-[(-->)]_(site4_страница2.md)
+[()-->]_(site4_страница2.md)
